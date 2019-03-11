@@ -1,1 +1,4 @@
-a
+eos 账务基本查询
+操作：
+   1、npm install
+   2、npm run dev
